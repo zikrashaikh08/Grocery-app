@@ -20,11 +20,11 @@ class HomeHeader extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Good Morning!",
+                "Hello!",
                 style: Theme.of(context).textTheme.caption,
               ),
               Text(
-                "Caesar Rincon",
+                "Dear Customer",
                 style: Theme.of(context)
                     .textTheme
                     .subtitle1!
